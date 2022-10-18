@@ -1,19 +1,19 @@
 * {
   margin: 0;
   padding: 0;
-  
 }
 
 html, body{
   background-color: #1b1b32;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .App {
   display: flex;
-
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  padding-top: 100px;
 }
 
