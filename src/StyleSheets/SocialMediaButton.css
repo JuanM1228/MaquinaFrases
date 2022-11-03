@@ -9,9 +9,9 @@ a{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(228, 202, 255);
   border-radius: 5px;
   font-size: 1.2rem;
   margin-right: 5px;
+  color: white;
 }
 

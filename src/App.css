@@ -3,12 +3,13 @@
   padding: 0;
 }
 
-html, body{
-  background-color: #1b1b32;
+body{
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: all 500ms ease;
+  background-color: #CF0A0A;
 }
 
 .App {
